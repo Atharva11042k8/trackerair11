@@ -16,9 +16,9 @@ const fetchJson = async <T,>(url: string): Promise<T> => {
 
 export const fetchAllData = async () => {
   const [tasks, study, sleep] = await Promise.all([
-    fetchJson<TasksData>('public/data/tasks.json'),
-    fetchJson<HoursData>('public/data/study.json'),
-    fetchJson<HoursData>('public/data/sleep.json'),
+    fetchJson<TasksData>('/data/tasks.json'),
+    fetchJson<HoursData>('/data/study.json'),
+    fetchJson<HoursData>('/data/sleep.json'),
   ]);
 
   return { tasks, study, sleep };
