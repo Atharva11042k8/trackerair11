@@ -23,14 +23,14 @@ const Header: React.FC = () => {
         <div>
           <div className="flex items-center gap-2 text-emerald-400 mb-1 text-xs md:text-sm font-mono tracking-wider uppercase">
              <Terminal size={14} /> 
-             <span>Student Dashboard v2.0</span>
+             <span>study tracker v2.0</span>
           </div>
           <h1 className="text-3xl md:text-5xl font-bold text-white tracking-tight drop-shadow-lg">
-            Zenith Tracker
+            Atharva's study tracker
           </h1>
           <p className="text-gray-400 mt-2 text-sm md:text-base flex items-center gap-4">
-            <span className="flex items-center gap-1.5"><Calendar size={14} /> Academic Year 2025</span>
-            <span className="flex items-center gap-1.5"><Coffee size={14} /> Focus Mode</span>
+            <span className="flex items-center gap-1.5"><Calendar size={14} /> AIR 11</span>
+            <span className="flex items-center gap-1.5"><Coffee size={14} /> atharvahadke11</span>
           </p>
         </div>
       </div>
