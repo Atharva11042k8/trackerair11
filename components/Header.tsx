@@ -8,7 +8,7 @@ const Header: React.FC = () => {
       <div className="w-full h-48 md:h-64 overflow-hidden rounded-b-2xl relative">
         <div className="absolute inset-0 bg-gradient-to-t from-[#0e0e0e] to-transparent z-10" />
         <img 
-          src="assets/pixel-header.jpg" 
+          src="./assets/pixel-header.jpg" 
           alt="Banner" 
           className="w-full h-full object-cover opacity-60 group-hover:scale-105 transition-transform duration-700 ease-out"
         />
