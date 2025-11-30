@@ -18,7 +18,7 @@ const Header: React.FC = () => {
       {/* Header Content */}
       <div className="absolute bottom-4 left-4 md:bottom-8 md:left-8 z-20 flex items-end gap-4">
         <div className="hidden md:flex h-20 w-20 glass-card items-center justify-center rounded-xl shadow-2xl">
-          <a href="https://github.com/Atharva11042k8/trackerair11/edit/main/components/Header.tsx"></><span className="text-4xl">🔥</span></a>
+          <a href="https://github.com/Atharva11042k8/trackerair11/blob/main/public/data/tasks.json"><span className="text-4xl">🔥</span></a>
         </div>
         <div>
           <div className="flex items-center gap-2 text-emerald-400 mb-1 text-xs md:text-sm font-mono tracking-wider uppercase">
