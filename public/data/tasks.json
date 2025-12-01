@@ -3,7 +3,7 @@
     { "task": "Electrostatics", "done": true },
     { "task": "Current Electricity", "done": true },
     { "task": "Magnetic Fields due to Electric Current", "done": true },
-    { "task": "Magnetic Materials", "done": false },
+    { "task": "Magnetic Materials", "done": true },
     { "task": "Electromagnetic Induction", "done": false },
     { "task": "AC Circuits", "done": false }
   ],
