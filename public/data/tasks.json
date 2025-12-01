@@ -8,8 +8,16 @@
     { "task": "AC Circuits", "done": false }
   ],
 
-  "2025-12-02": [],
-  "2025-12-03": [],
+  "2025-12-02": [
+    { "task": "Vectors", "done": false },
+    { "task": "SHM", "done": false },
+    { "task": "Thermodynamics", "done": false }
+  ],
+  "2025-12-03": [
+    { "task": "", "done": false },
+    { "task": "", "done": false },
+    { "task": "", "done": false }
+  ],
 
   "2025-12-04": [
     { "task": "Differentiation", "done": false },
