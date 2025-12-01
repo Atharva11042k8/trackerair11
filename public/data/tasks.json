@@ -1,6 +1,6 @@
 {
   "2025-12-01": [
-    { "task": "Electrostatics", "done": false },
+    { "task": "Electrostatics", "done": true },
     { "task": "Current Electricity", "done": false },
     { "task": "Magnetic Fields due to Electric Current", "done": false },
     { "task": "Magnetic Materials", "done": false },
