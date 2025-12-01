@@ -5,7 +5,8 @@
     { "task": "Magnetic Fields due to Electric Current", "done": true },
     { "task": "Magnetic Materials", "done": true },
     { "task": "Electromagnetic Induction", "done": true },
-    { "task": "AC Circuits", "done": false }
+    { "task": "AC Circuits", "done": false },
+    { "task": "PHYSICS", "done": false}
   ],
 
   "2025-12-02": [
