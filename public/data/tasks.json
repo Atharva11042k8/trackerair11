@@ -2,7 +2,7 @@
   "2025-12-01": [
     { "task": "Electrostatics", "done": true },
     { "task": "Current Electricity", "done": true },
-    { "task": "Magnetic Fields due to Electric Current", "done": false },
+    { "task": "Magnetic Fields due to Electric Current", "done": true },
     { "task": "Magnetic Materials", "done": false },
     { "task": "Electromagnetic Induction", "done": false },
     { "task": "AC Circuits", "done": false }
