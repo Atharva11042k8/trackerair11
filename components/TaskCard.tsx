@@ -13,9 +13,9 @@ const TaskCard: React.FC<TaskCardProps> = ({ date, tasks }) => {
     month: 'long',
     day: 'numeric',
   });
-
+/*p-6 instead of p-3*/
   return (
-    <div className="glass-card rounded-2xl p-12 h-full flex flex-col transition-all duration-300 hover:shadow-[0_0_30px_rgba(16,185,129,0.1)]">
+    <div className="glass-card rounded-2xl p-3 h-full flex flex-col transition-all duration-300 hover:shadow-[0_0_30px_rgba(16,185,129,0.1)]">
       <div className="flex justify-between items-start mb-6 border-b border-white/5 pb-4">
         <div>
             <h2 className="text-xl font-semibold text-white mb-1">Daily Tasks</h2>
