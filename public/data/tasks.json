@@ -10,15 +10,15 @@
   ],
 
   "2025-12-02": [
-    { "task": "Vectors", "done": false },
-    { "task": "SHM", "done": false },
+    { "task": "Vectors", "done": true },
+    { "task": "SHM", "done": true },
     { "task": "Thermodynamics", "done": false },
     { "task": "PHYSICS", "done": true}
   ],
   "2025-12-03": [
-    { "task": "", "done": false },
-    { "task": "", "done": false },
-    { "task": "", "done": false }
+    { "task": "differentiation+AOD", "done": false },
+    { "task": "SHM", "done": false },
+    { "task": "Thermodynamics", "done": false }
   ],
 
   "2025-12-04": [
