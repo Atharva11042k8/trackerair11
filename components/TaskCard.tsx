@@ -7,7 +7,7 @@ interface DailySummaryProps {
   data: DailyData;
 }
 
-const DailySummary: React.FC<DailySummaryProps> = ({ date, data }) => {
+const TaskCard: React.FC<DailySummaryProps> = ({ date, data }) => {
   const formattedDate = new Date(date).toLocaleDateString('en-US', {
     weekday: 'long',
     month: 'long',
@@ -105,4 +105,4 @@ const DailySummary: React.FC<DailySummaryProps> = ({ date, data }) => {
   );
 };
 
-export default DailySummary;
+export default TaskCard;
